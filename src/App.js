@@ -1,13 +1,9 @@
 
 
-
 function App() {
-  return (
-    <div className="App">
-      
-      
-    </div>
-  );
+    return (
+        <div classname="App">Master</div>
+    );
 }
 
 export default App;
